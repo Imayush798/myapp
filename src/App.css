@@ -1,0 +1,29 @@
+*{
+  text-align: center;
+  background: rgb(224, 221, 230);
+}
+header{
+  color: aqua;
+  background:#fff;
+  padding: 10px;
+}
+button{
+  background: #fff;
+  font-size: 40px;
+  padding: 1px;
+  border-radius: 5px;
+  border: none;
+  color: aqua;
+}
+/* button:hover{
+  background: royalblue;
+} */
+.data{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  font-size: 20px;
+  padding: 1px;
+}
+
+
